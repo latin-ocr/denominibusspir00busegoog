@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./denominibusspir00busegoog_0006.png"; bbox 0 0 2910 4936; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 119 596 1315 771">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 119 491 1354 771">
+     <span class='ocr_line' id='line_1_1' title="bbox 119 596 1315 771; baseline 0.001 -5"><span class='ocrx_word' id='word_1_1' title='bbox 119 597 443 769; x_wconf 67' lang='lat' dir='ltr'><strong>Nummus</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 475 597 752 770; x_wconf 63' lang='lat' dir='ltr'>smmum</span> <span class='ocrx_word' id='word_1_3' title='bbox 785 597 997 771; x_wconf 63' lang='lat' dir='ltr'><strong>mcv!</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1023 596 1315 770; x_wconf 54' lang='lat' dir='ltr'><strong>famam</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 126 995 1436 1146">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 126 995 1436 1146">
+     <span class='ocr_line' id='line_1_2' title="bbox 126 995 1436 1146; baseline -0.007 -31"><span class='ocrx_word' id='word_1_5' title='bbox 126 1133 128 1146; x_wconf 27' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_6' title='bbox 180 995 681 1116; x_wconf 68' lang='lat' dir='ltr'>‘mmmm</span> <span class='ocrx_word' id='word_1_7' title='bbox 713 1030 1215 1116; x_wconf 66' lang='lat' dir='ltr'><strong>»namucum</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1433 1099 1436 1106; x_wconf 83' lang='lat'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 477 1841 947 1935">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 477 1841 947 1935">
+     <span class='ocr_line' id='line_1_3' title="bbox 477 1841 947 1935; baseline 0 -21"><span class='ocrx_word' id='word_1_9' title='bbox 477 1841 760 1915; x_wconf 69' lang='lat' dir='ltr'><strong>Anomflus</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 796 1843 947 1935; x_wconf 73' lang='lat' dir='ltr'>nusn,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 483 4095 899 4278">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 483 4095 899 4278">
+     <span class='ocr_line' id='line_1_4' title="bbox 483 4095 899 4195; baseline -0.007 -25"><span class='ocrx_word' id='word_1_11' title='bbox 483 4095 899 4195; x_wconf 67' lang='lat' dir='ltr'><strong>Moe-mm,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 500 4237 511 4278; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 500 4237 511 4278; x_wconf 94' lang='grc'>1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 610 4359 788 4432">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 610 4359 788 4432">
+     <span class='ocr_line' id='line_1_6' title="bbox 610 4359 788 4432; baseline 0.011 -2"><span class='ocrx_word' id='word_1_13' title='bbox 610 4359 788 4432; x_wconf 69' lang='grc'>1843.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1460 4936">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1460 4936">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1460 4936; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1460 4936; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
